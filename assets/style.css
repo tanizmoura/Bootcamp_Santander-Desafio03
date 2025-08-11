@@ -6,11 +6,7 @@
 
 @font-face {
     font-family: Raleway;
-<<<<<<< HEAD
     src: url('/assets/fonts/Raleway.ttf');
-=======
-    src: url(./assets/fonts/Raleway.ttf);
->>>>>>> 0ffaa7481a3d2ff8c14ca93bc97051360fb27bd4
 }
 
 body {
@@ -22,11 +18,7 @@ body {
 
 header {
     height: 100vh;    
-<<<<<<< HEAD
     background-image: url('/assets/images/banner.png'), linear-gradient(#000, #0a6891, #000);
-=======
-    background-image: url('./assets/images/banner.png'), linear-gradient(#000, #0a6891, #000);
->>>>>>> 0ffaa7481a3d2ff8c14ca93bc97051360fb27bd4
     background-blend-mode: multiply;
 }
 
@@ -128,11 +120,7 @@ h2{
 /*TRANSFORM WORLD*/ 
 #transform-world {
     height: 60vh;
-<<<<<<< HEAD
     background-image: url('/assets/images/woman-code.png'), linear-gradient(#000, #02425e, #000); 
-=======
-    background-image: url('./assets/images/woman-code.png'), linear-gradient(#000, #02425e, #000); 
->>>>>>> 0ffaa7481a3d2ff8c14ca93bc97051360fb27bd4
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat; 
