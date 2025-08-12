@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: Raleway;
-    src: url('/assets/fonts/Raleway.ttf');
+    src: url('assets/fonts/Raleway.ttf');
 }
 
 body {
@@ -18,7 +18,7 @@ body {
 
 header {
     height: 100vh;    
-    background-image: url('/assets/images/banner.png'), linear-gradient(#000, #0a6891, #000);
+    background-image: url('assets/images/banner.png'), linear-gradient(#000, #0a6891, #000);
     background-blend-mode: multiply;
 }
 
